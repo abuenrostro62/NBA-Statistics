@@ -1,0 +1,176 @@
+PLAYER,YEAR,ERA,POS,TEAM,FG%,PPG,RPG,APG,BLKPG
+Stephen Curry,2019,2015-19,G,Golden State Warriors,0.472,27.3,5.3,5.2,0.4
+James Harden,2019,2015-19,G,Houston Rockets,0.442,36.1,6.6,7.5,0.7
+Paul George,2019,2015-19,F,Oklahoma City Thunder,0.438,28,8.2,4.1,0.4
+Giannis Antetokounmpo,2019,2015-19,F,Milwaukee Bucks,0.578,27.7,12.5,5.9,1.5
+Nikola Jokic,2019,2015-19,C,Denver Nuggets,0.511,20.1,10.8,7.3,0.7
+LeBron James,2018,2015-19,F,Cleveland Cavaliers,0.542,27.5,8.6,9.1,0.9
+Kevin Durant,2018,2015-19,F,Golden State Warriors,0.516,26.4,6.8,5.4,1.8
+James Harden,2018,2015-19,G,Houston Rockets,0.449,30.4,5.4,8.8,0.7
+Anthony Davis,2018,2015-19,F,New Orleans Pelicans,0.534,28.1,11.1,2.3,2.6
+Damian Lillard,2018,2015-19,G,Portland Trail Blazers,0.439,26.9,4.5,6.6,0.4
+LeBron James,2017,2015-19,F,Cleveland Cavaliers,0.548,26.4,8.6,8.7,0.6
+Russell Westbrook,2017,2015-19,G,Oklahoma City Thunder,0.425,31.6,10.7,10.4,0.4
+James Harden,2017,2015-19,G,Houston Rockets,0.44,29.1,8.1,11.2,0.5
+Kawhi Leonard,2017,2015-19,F,San Antonio Spurs,0.485,25.5,5.8,3.5,0.7
+Anthony Davis,2017,2015-19,F,New Orleans Pelicans,0.505,28,11.8,2.1,2.2
+LeBron James,2016,2015-19,F,Cleveland Cavaliers,0.52,25.3,7.4,6.8,0.6
+DeAndre Jordan,2016,2015-19,C,LA Clippers,0.703,12.7,13.8,1.2,2.3
+Russell Westbrook,2016,2015-19,G,Oklahoma City Thunder,0.454,23.5,7.8,10.4,0.3
+Stephen Curry,2016,2015-19,G,Golden State Warriors,0.504,30.1,5.4,6.7,0.2
+Kawhi Leonard,2016,2015-19,F,San Antonio Spurs,0.505,21.2,6.8,2.6,1
+LeBron James,2015,2015-19,F,Cleveland Cavaliers,0.488,25.3,6,7.4,0.7
+Marc Gasol,2015,2015-19,C,Memphis Grizzlies,0.494,17.4,7.8,3.8,1.6
+Stephen Curry,2015,2015-19,G,Golden State Warriors,0.487,23.8,4.3,7.7,0.2
+James Harden,2015,2015-19,G,Houston Rockets,0.44,27.4,5.7,7,0.7
+Anthony Davis,2015,2015-19,F,New Orleans Pelicans,0.535,24.4,10.2,2.2,2.9
+LeBron James,2014,2010-14,F,Miami Heat,0.567,27.1,6.9,6.4,0.3
+Chris Paul,2014,2010-14,G,LA Clippers,0.467,19.1,4.3,10.7,0.1
+Kevin Durant,2014,2010-14,F,Oklahoma City Thunder,0.503,32,7.4,5.5,0.7
+Joakim Noah,2014,2010-14,C,Chicago Bulls,0.475,12.6,11.3,5.4,1.5
+James Harden,2014,2010-14,G,Houston Rockets,0.456,25.4,4.7,6.1,0.4
+Kobe Bryant,2013,2010-14,G,Los Angeles Lakers,0.463,27.3,5.6,6,0.3
+Tim Duncan,2013,2010-14,F,San Antonio Spurs,0.502,17.8,9.9,2.7,2.7
+LeBron James,2013,2010-14,F,Miami Heat,0.565,26.8,8,7.3,0.9
+Chris Paul,2013,2010-14,G,LA Clippers,0.481,16.9,3.7,9.7,0.1
+Kevin Durant,2013,2010-14,F,Oklahoma City Thunder,0.51,28.1,7.9,4.6,1.3
+Kobe Bryant,2012,2010-14,G,Los Angeles Lakers,0.43,27.9,5.4,4.6,0.3
+LeBron James,2012,2010-14,F,Miami Heat,0.531,27.1,7.9,6.2,0.8
+Dwight Howard,2012,2010-14,C,Los Angeles Lakers,0.573,20.6,14.5,1.9,2.1
+Chris Paul,2012,2010-14,G,LA Clippers,0.478,19.8,3.6,9.1,0.1
+Kevin Durant,2012,2010-14,F,Oklahoma City Thunder,0.496,28,8,3.5,1.2
+Kobe Bryant,2011,2010-14,SF,Los Angeles Lakers,0.451,25.3,5.1,4.7,0.1
+LeBron James,2011,2010-14,SF,Miami Heat,0.51,26.7,7.5,7,0.6
+Dwight Howard,2011,2010-14,C,Orlando Magic,0.593,22.9,14.1,1.4,2.4
+Kevin Durant,2011,2010-14,SF,Oklahoma City Thunder,0.462,27.7,6.8,2.7,1
+Derrick Rose,2011,2010-14,PG,Chicago Bulls,0.445,25,4.1,7.7,0.6
+Kobe Bryant,2010,2010-14,G,Los Angeles Lakers,0.456,27,5.4,5,0.3
+LeBron James,2010,2010-14,F,Cleveland Cavaliers,0.503,29.7,7.3,8.6,1
+Dwyane Wade,2010,2010-14,G,Miami Heat,0.476,26.6,4.8,6.5,1.1
+Dwight Howard,2010,2010-14,C,Orlando Magic,0.612,18.3,13.2,1.8,2.8
+Kevin Durant,2010,2010-14,F,Oklahoma City Thunder,0.476,30.1,7.6,2.8,1
+Kobe Bryant,2009,2005-09,G,Los Angeles Lakers,0.467,26.8,5.2,4.9,0.5
+Dirk Nowitzki,2009,2005-09,F,Dallas Mavericks,0.479,25.9,8.4,2.4,0.8
+LeBron James,2009,2005-09,F,Cleveland Cavaliers,0.489,28.4,7.6,7.2,1.1
+Dwyane Wade,2009,2005-09,G,Miami Heat,0.491,30.2,5,7.5,1.3
+Dwight Howard,2009,2005-09,C,Orlando Magic,0.572,20.6,13.8,1.4,2.9
+Kobe Bryant,2008,2005-09,G,Los Angeles Lakers,0.459,28.3,6.3,5.4,0.5
+Kevin Garnett,2008,2005-09,F,Boston Celtics,0.539,18.8,9.2,3.4,1.3
+LeBron James,2008,2005-09,F,Cleveland Cavaliers,0.484,30,7.9,7.2,1.1
+Dwight Howard,2008,2005-09,C,Orlando Magic,0.599,20.7,14.2,1.3,2.1
+Chris Paul,2008,2005-09,G,New Orleans Hornets,0.488,21.1,4,11.6,0.1
+Kobe Bryant,2007,2005-09,G,Los Angeles Lakers,0.463,31.6,5.7,5.4,0.5
+Tim Duncan,2007,2005-09,F,San Antonio Spurs,0.546,20,10.6,3.4,2.4
+Steve Nash,2007,2005-09,G,Phoenix Suns,0.532,18.6,3.5,11.6,0.1
+Dirk Nowitzki,2007,2005-09,F,Dallas Mavericks,0.502,24.6,8.9,3.4,0.8
+Amar'e Stoudemire,2007,2005-09,C,Phoenix Suns,0.575,20.4,9.6,1,1.3
+Kobe Bryant,2006,2005-09,G,Los Angeles Lakers,0.45,35.4,5.3,4.5,0.4
+Steve Nash,2006,2005-09,G,Phoenix Suns,0.512,18.8,4.2,10.5,0.2
+Dirk Nowitzki,2006,2005-09,F,Dallas Mavericks,0.48,26.6,9,2.8,1
+Shaquille O'Neal,2006,2005-09,C,Miami Heat,0.6,20,9.2,1.9,1.8
+LeBron James,2006,2005-09,F,Cleveland Cavaliers,0.48,31.4,7,6.6,0.8
+Tim Duncan,2005,2005-09,F,San Antonio Spurs,0.496,20.3,11.1,2.7,2.6
+Allen Iverson,2005,2005-09,G,Philadelphia 76ers,0.424,30.7,4,7.9,0.1
+Steve Nash,2005,2005-09,G,Phoenix Suns,0.502,15.5,3.3,11.5,0.1
+Dirk Nowitzki,2005,2005-09,F,Dallas Mavericks,0.459,26.1,9.7,3.1,1.5
+Shaquille O'Neal,2005,2005-09,C,Miami Heat,0.601,22.9,10.4,2.7,2.3
+Kobe Bryant,2004,2000-04,G,Los Angeles Lakers,0.438,24,5.5,5.1,0.4
+Tim Duncan,2004,2000-04,F,San Antonio Spurs,0.501,22.3,12.4,3.1,2.7
+Kevin Garnett,2004,2000-04,F,Minnesota Timberwolves,0.499,24.2,13.9,5,2.2
+Jason Kidd,2004,2000-04,G,New Jersey Nets,0.384,15.5,6.4,9.2,0.2
+Shaquille O'Neal,2004,2000-04,C,Los Angeles Lakers,0.584,21.5,11.5,2.9,2.5
+Kobe Bryant,2003,2000-04,G,Los Angeles Lakers,0.451,30,6.9,5.9,0.8
+Tim Duncan,2003,2000-04,F,San Antonio Spurs,0.513,23.3,12.9,3.9,2.9
+Kevin Garnett,2003,2000-04,F,Minnesota Timberwolves,0.502,23,13.4,6,1.6
+Tracy McGrady,2003,2000-04,G,Orlando Magic,0.457,32.1,6.5,5.5,0.8
+Shaquille O'Neal,2003,2000-04,C,Los Angeles Lakers,0.574,27.5,11.1,3.1,2.4
+Kobe Bryant,2002,2000-04,G,Los Angeles Lakers,0.469,25.2,5.5,5.5,0.4
+Tim Duncan,2002,2000-04,F,San Antonio Spurs,0.508,25.5,12.7,3.7,2.5
+Jason Kidd,2002,2000-04,G,New Jersey Nets,0.391,14.7,7.3,9.9,0.2
+Tracy McGrady,2002,2000-04,F,Orlando Magic,0.451,25.6,7.9,5.3,1
+Shaquille O'Neal,2002,2000-04,C,Los Angeles Lakers,0.579,27.2,10.7,3,2
+Tim Duncan,2001,2000-04,F,San Antonio Spurs,0.499,22.2,12.2,3,2.3
+Allen Iverson,2001,2000-04,G,Philadelphia 76ers,0.42,31.1,3.8,4.6,0.3
+Jason Kidd,2001,2000-04,G,Phoenix Suns,0.411,16.9,6.4,9.8,0.3
+Shaquille O'Neal,2001,2000-04,C,Los Angeles Lakers,0.572,28.7,12.7,3.7,2.8
+Chris Webber,2001,2000-04,F,Sacramento Kings,0.481,27.1,11.1,4.2,1.7
+Tim Duncan,2000,2000-04,F,San Antonio Spurs,0.49,23.2,12.4,3.2,2.2
+Kevin Garnett,2000,2000-04,F,Minnesota Timberwolves,0.497,22.9,11.8,5,1.6
+Jason Kidd,2000,2000-04,G,Phoenix Suns,0.409,14.3,7.2,10.1,0.4
+Shaquille O'Neal,2000,2000-04,C,Los Angeles Lakers,0.574,29.7,13.6,3.8,3
+Gary Payton,2000,2000-04,G,Seattle SuperSonics,0.448,24.2,6.5,8.9,0.2
+Tim Duncan,1999,1995-99,F,San Antonio Spurs,0.495,21.7,11.4,2.4,2.5
+Allen Iverson,1999,1995-99,G,Philadelphia 76ers,0.412,26.8,4.9,4.6,0.1
+Jason Kidd,1999,1995-99,G,Phoenix Suns,0.444,16.9,6.8,10.8,0.4
+Karl Malone,1999,1995-99,F,Utah Jazz,0.493,23.8,9.4,4.1,0.6
+Alonzo Mourning,1999,1995-99,C,Miami Heat,0.511,20.1,11,1.6,3.9
+Tim Duncan,1998,1995-99,F,San Antonio Spurs,0.549,21.1,11.9,2.7,2.5
+Karl Malone,1998,1995-99,F,Utah Jazz,0.53,27,10.3,3.9,0.9
+Shaquille O'Neal,1998,1995-99,C,Los Angeles Lakers,0.584,28.3,11.4,2.4,2.4
+Gary Payton,1998,1995-99,G,Seattle SuperSonics,0.453,19.2,4.6,8.3,0.2
+Michael Jordan,1998,1995-99,G,Chicago Bulls,0.465,28.7,5.8,3.5,0.5
+Tim Hardaway,1997,1995-99,G,Miami Heat,0.415,20.3,3.4,8.6,0.1
+Grant Hill,1997,1995-99,F,Detroit Pistons,0.496,21.4,9,7.3,0.6
+Karl Malone,1997,1995-99,F,Utah Jazz,0.55,27.4,9.9,4.5,0.6
+Hakeem Olajuwon,1997,1995-99,C,Houston Rockets,0.51,23.2,9.2,3,2.2
+Michael Jordan,1997,1995-99,G,Chicago Bulls,0.486,29.6,5.9,4.3,0.5
+Anfernee Hardaway,1996,1995-99,G,Orlando Magic,0.513,21.7,4.3,7.1,0.5
+Karl Malone,1996,1995-99,F,Utah Jazz,0.519,25.7,9.8,4.2,0.7
+Scottie Pippen,1996,1995-99,F,Chicago Bulls,0.463,19.4,6.4,5.9,0.7
+David Robinson,1996,1995-99,C,San Antonio Spurs,0.516,25,12.2,3,3.3
+Michael Jordan,1996,1995-99,G,Chicago Bulls,0.495,30.4,6.6,4.3,0.5
+Anfernee Hardaway,1995,1995-99,G,Orlando Magic,0.512,20.9,4.4,7.2,0.3
+Karl Malone,1995,1995-99,F,Utah Jazz,0.536,26.7,10.6,3.5,1
+Scottie Pippen,1995,1995-99,F,Chicago Bulls,0.48,21.4,8.1,5.2,1.1
+David Robinson,1995,1995-99,C,San Antonio Spurs,0.53,27.6,10.8,2.9,3.2
+John Stockton,1995,1995-99,G,Utah Jazz,0.542,14.7,3.1,12.3,0.3
+Karl Malone,1994,1990-94,F,Utah Jazz,0.497,25.2,11.5,4,1.5
+Hakeem Olajuwon,1994,1990-94,C,Houston Rockets,0.528,27.3,11.9,3.6,3.7
+Scottie Pippen,1994,1990-94,F,Chicago Bulls,0.491,22,8.7,5.6,0.8
+Latrell Sprewell,1994,1990-94,G,Golden State Warriors,0.433,21,4.9,4.7,0.9
+John Stockton,1994,1990-94,G,Utah Jazz,0.528,15.1,3.1,12.6,0.3
+Charles Barkley,1993,1990-94,F,Phoenix Suns,0.52,25.6,12.2,5.1,1
+Karl Malone,1993,1990-94,F,Utah Jazz,0.552,27,11.2,3.8,1
+Hakeem Olajuwon,1993,1990-94,C,Houston Rockets,0.529,26.1,13,3.5,4.2
+Michael Jordan,1993,1990-94,G,Chicago Bulls,0.495,32.6,6.7,5.5,0.8
+Mark Price,1993,1990-94,G,Cleveland Cavaliers,0.484,18.2,2.7,8,0.1
+Karl Malone,1992,1990-94,F,Utah Jazz,0.526,28,11.2,3,0.6
+Chris Mullin,1992,1990-94,F,Golden State Warriors,0.524,25.6,5.6,3.5,0.8
+David Robinson,1992,1990-94,C,San Antonio Spurs,0.551,23.2,12.2,2.7,4.5
+Michael Jordan,1992,1990-94,G,Chicago Bulls,0.519,30.1,6.4,6.1,0.9
+Clyde Drexler,1992,1990-94,G,Portland Trail Blazers,0.47,25,6.6,6.7,0.9
+Charles Barkley,1991,1990-94,F,Philadelphia 76ers,0.57,27.6,10.1,4.2,0.5
+Karl Malone,1991,1990-94,F,Utah Jazz,0.527,29,11.8,3.3,1
+David Robinson,1991,1990-94,C,San Antonio Spurs,0.552,25.6,13,2.5,3.9
+Michael Jordan,1991,1990-94,G,Chicago Bulls,0.539,31.5,6,5.5,1
+Magic Johnson,1991,1990-94,G,Los Angeles Lakers,0.477,19.4,7,12.5,0.2
+Charles Barkley,1990,1990-94,F,Philadelphia 76ers,0.6,25.2,11.5,3.9,0.6
+Patrick Ewing,1990,1990-94,C,New York Knicks,0.551,28.6,10.9,2.2,4
+Karl Malone,1990,1990-94,F,Utah Jazz,0.562,31,11.1,2.8,0.6
+Michael Jordan,1990,1990-94,G,Chicago Bulls,0.526,33.6,6.9,6.3,0.7
+Magic Johnson,1990,1990-94,G,Los Angeles Lakers,0.48,22.3,6.6,11.5,0.4
+Charles Barkley,1989,1985-89,F,Philadelphia 76ers,0.579,25.8,12.5,4.1,0.8
+Karl Malone,1989,1985-89,F,Utah Jazz,0.519,29.1,10.7,2.7,0.9
+Hakeem Olajuwon,1989,1985-89,C,Houston Rockets,0.508,24.8,13.5,1.8,3.4
+Michael Jordan,1989,1985-89,G,Chicago Bulls,0.538,32.5,8,8,0.8
+Magic Johnson,1989,1985-89,G,Los Angeles Lakers,0.509,22.5,7.9,12.8,0.3
+Charles Barkley,1988,1985-89,F,Philadelphia 76ers,0.587,28.3,11.9,3.2,1.3
+Hakeem Olajuwon,1988,1985-89,C,Houston Rockets,0.514,22.8,12.1,2.1,2.7
+Michael Jordan,1988,1985-89,G,Chicago Bulls,0.535,35,5.5,5.9,1.6
+Magic Johnson,1988,1985-89,G,Los Angeles Lakers,0.492,19.6,6.2,11.9,0.2
+Larry Bird,1988,1985-89,F,Boston Celtics,No stats available.,,,,
+Hakeem Olajuwon,1987,1985-89,C,Houston Rockets,0.508,23.4,11.4,2.9,3.4
+Michael Jordan,1987,1985-89,G,Chicago Bulls,0.482,37.1,5.2,4.6,1.5
+Magic Johnson,1987,1985-89,G,Los Angeles Lakers,0.522,23.9,6.3,12.2,0.5
+Larry Bird,1987,1985-89,F,Boston Celtics,No stats available.,,,,
+Kevin McHale,1987,1985-89,F,Boston Celtics,No stats available.,,,,
+Magic Johnson,1986,1985-89,G,Los Angeles Lakers,0.526,18.8,5.9,12.6,0.2
+Larry Bird,1986,1985-89,F,Boston Celtics,No stats available.,,,,
+Isiah Thomas,1986,1985-89,G,Detroit Pistons,0.488,20.9,3.6,10.8,0.3
+Dominique Wilkins,1986,1985-89,F,Atlanta Hawks,0.468,30.3,7.9,2.6,0.6
+Kareem Abdul-Jabbar,1986,1985-89,C,Los Angeles Lakers,No stats available.,,,,
+Magic Johnson,1985,1985-89,G,Los Angeles Lakers,0.561,18.3,6.2,12.6,0.3
+Larry Bird,1985,1985-89,F,Boston Celtics,No stats available.,,,,
+Isiah Thomas,1985,1985-89,G,Detroit Pistons,0.458,21.2,4.5,13.9,0.3
+Moses Malone,1985,1985-89,C,Philadelphia 76ers,0.469,24.6,13.1,1.6,1.6
+Bernard King,1985,1985-89,F,New York Knicks,No stats available.,,,,
